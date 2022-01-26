@@ -1,2 +1,1 @@
-Page created with Scratch&JavaScript
-Converted with @sheeptester HTMLifier
+Page created with Scratch&JavaScript. Converted with @sheeptester HTMLifier
